@@ -23,7 +23,7 @@ In this work, we manually construct a large-scale synthetic dataset named SynPer
 ## Link of the Dataset
 #### A full version of SynPerson can be downloaded from the following links:<br>
 * SJTU Yun Drive: 
-	* [Download Link](https://jbox.sjtu.edu.cn/l/N1ynlf) password: coming soon
+	* [Download Link](https://jbox.sjtu.edu.cn/l/r1S5CO) password: mavj
 	
 
 ## Citation
