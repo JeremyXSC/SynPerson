@@ -24,7 +24,9 @@ In this work, we manually construct a large-scale synthetic dataset named SynPer
 #### A full version of SynPerson can be downloaded from the following links:<br>
 * SJTU Yun Drive: 
 	* [Download Link](https://jbox.sjtu.edu.cn/l/u1fxyR) password: gehi
-	
+* Baidu Yun Drive: 
+	* [Download Link](https://pan.baidu.com/s/14lEwiEP-qZ8vonyjtzqkAw) password: 38dx
+
 
 ## Citation
 If you use our SynPerson dataset for your research, please cite our [Paper](https://openaccess.thecvf.com/content/CVPR2022W/VDU/papers/Xiang_Rethinking_Illumination_for_Person_Re-Identification_A_Unified_View_CVPRW_2022_paper.pdf).
